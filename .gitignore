@@ -1,0 +1,15 @@
+/build
+/tmp
+**/*.orig
+.idea
+*.swp
+.env
+/node_modules
+.DS_Store
+/.tmp
+.htaccess
+package-lock.json
+dist
+.vscode
+.env.*
+node_modules
